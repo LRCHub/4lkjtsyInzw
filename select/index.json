@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "よー、そこの若いの",
+  "base_artist": "竹原ピストル",
+  "createdAt": "2026-02-16T08:02:10.402435Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "よー、そこの若いの",
+      "artist": "Takehara Pistol",
+      "has_synced": true,
+      "path": "select/01_よー、そこの若いの_Takehara_Pistol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "よー、そこの若いの",
+      "artist": "竹原ピストル",
+      "has_synced": false,
+      "path": "select/pl_01_よー、そこの若いの_竹原ピストル.txt"
+    }
+  ]
+}
